@@ -15,7 +15,7 @@ const buyTicket = (function () {
         showTicket: function () {
             adquireTicket();
         }
-    }
+    };
 })();
 
 buyTicket.showTicket();
